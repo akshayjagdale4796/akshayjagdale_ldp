@@ -1,0 +1,10 @@
+<suite name="Suite">
+    <!-- Suite -->
+    <test name="Test">
+       <classes>
+            <class name="qatestings.SeleniumTest"/>
+            <class name="qatestings.RSETAPITest"/>
+        </classes>
+    </test>
+    <!-- Test -->
+</suite>
